@@ -1,0 +1,28 @@
+# sylveon
+colors:
+  # Default colors
+  primary:
+    background: '0x131415'
+    foreground: '0xffffff'
+
+  # Normal colors
+  normal:
+    black:   '0x262626'
+    red:     '0xf55678'
+    green:   '0x56f583'
+    yellow:  '0xf7f086'
+    blue:    '0x71a8fe'
+    magenta: '0xf27b92'
+    cyan:    '0x56c7f5'
+    white:   '0xededed'
+
+  # Bright colors
+  bright:
+    black:   '0x666666'
+    red:     '0xf66e8b'
+    green:   '0x86f7a7'
+    yellow:  '0xf9f39e'
+    blue:    '0x8ab8fe'
+    magenta: '0xf492a5'
+    cyan:    '0x6ecff6'
+    white:   '0xfbfbfb'
