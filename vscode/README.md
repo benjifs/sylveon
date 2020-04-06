@@ -12,6 +12,6 @@ To install this theme, copy over this directory to `~/.vscode/extensions`
 
 ## Screenshot
 
-![screenshot](https://user-images.githubusercontent.com/4167938/78609493-5233cf80-7852-11ea-898c-297815b62829.png)
+![screenshot](https://user-images.githubusercontent.com/4167938/78612907-fe2ce900-7859-11ea-96d0-c5f7426bc69f.png)
 
 *Font: [Hack](https://github.com/source-foundry/Hack)*
