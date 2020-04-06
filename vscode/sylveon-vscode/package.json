@@ -1,0 +1,40 @@
+{
+	"name": "sylveon",
+	"displayName": "Sylveon",
+	"description": "Sylveon inspired theme",
+	"version": "0.0.1",
+	"publisher": "benjifs",
+	"license": "MIT",
+	"maintainers": [
+		"Benji Encalada Mora <b@encalada.dev>"
+	],
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/benjifs/sylveon.git"
+	},
+	"bugs": {
+		"url": "https://github.com/benjifs/sylveon/issues"
+	},
+	"engines": {
+		"vscode": "^1.13.0"
+	},
+	"categories": [
+		"Themes"
+	],
+	"keywords": [
+		"sylveon",
+		"dark",
+		"vs-code",
+		"theme"
+	],
+	"icon": "assets/icon.png",
+	"contributes": {
+		"themes": [
+			{
+				"label": "Sylveon",
+				"uiTheme": "vs-dark",
+				"path": "./themes/sylveon-theme.json"
+			}
+		]
+	}
+}
