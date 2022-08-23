@@ -1,37 +1,36 @@
-! Sylveon
 ! special
-*.background:   #131415
 *.foreground:   #ffffff
-*.cursorColor:  #464646
+*.background:   #121213
+*.cursorColor:  #ffffff
 
 ! black
 *.color0:       #262626
 *.color8:       #666666
 
 ! red
-*.color1:       #f55678
-*.color9:       #f66e8b
+*.color1:       #f18895
+*.color9:       #f099a3
 
 ! green
-*.color2:       #6ef596
-*.color10:      #86f7a7
+*.color2:       #91f188
+*.color10:      #a0f099
 
 ! yellow
-*.color3:       #f7f086
-*.color11:      #f9f39e
+*.color3:       #e8f188
+*.color11:      #e9f099
 
 ! blue
-*.color4:       #71a8fe
-*.color12:      #8ab8fe
+*.color4:       #88c9f1
+*.color12:      #99cef0
 
 ! magenta
-*.color5:       #f27b92
-*.color13:      #f492a5
+*.color5:       #f188b0
+*.color13:      #f099ba
 
 ! cyan
-*.color6:       #56c7f5
-*.color14:      #6ecff6
+*.color6:       #88e5f1
+*.color14:      #99e6f0
 
 ! white
-*.color7:       #ededed
+*.color7:       #5f5f5f
 *.color15:      #fbfbfb
