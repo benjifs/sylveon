@@ -22,6 +22,6 @@
 
 ## Screenshot
 
-![screenshot](https://user-images.githubusercontent.com/4167938/85649288-4823af00-b692-11ea-8146-1ae57ffa28e9.png)
+![screenshot](https://user-images.githubusercontent.com/4167938/186271243-d844d40a-6fa7-4797-8e9d-395a901c2df8.png)
 
 *Font: [Hack](https://github.com/source-foundry/Hack)*
